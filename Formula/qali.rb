@@ -9,3 +9,4 @@ class Qali < Formula
         bin.install "qali"
         bin.install "q"
     end
+end
