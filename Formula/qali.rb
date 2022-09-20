@@ -2,8 +2,8 @@ class Qali < Formula
     desc "Quick ALIasing in the terminal"
     homepage "https://github.com/JettChenT/qali"
     url "https://github.com/JettChenT/qali/releases/latest/download/qali-x86_64-apple-darwin.tar.gz"
-    sha256 "f94a276664f28ade0c35c59a893661cdc43196c8a5c101844d6d5af558e8477d"
-    version "0.3.7"
+    sha256 "f73772725811f1f0263c5e7ce14349fb7f563c7d4d8e774cf62283490c9f350e"
+    version "0.4.4"
 
     def install
         bin.install "qali"
